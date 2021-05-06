@@ -1,1 +1,1 @@
-# Pr-cticas-Programaci-n-Orientada-a-Objetos-
+# Practicas-Programacion-Orientada-a-Objetos-
